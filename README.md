@@ -4,7 +4,7 @@ My name is Andrei, i’m a junior frontend-developer.
 I’m just finished a [Hexlet](https://hexlet.io) courses and start my career.
 Now i’m looking for job.
 
-My stack: React/Redux/Reduxjs/toolkit
+My stack: React / Redux / Redux Toolkit
 
 ### Contact me
 

@@ -5,6 +5,7 @@ I’m just finished a [Hexlet](https://hexlet.io) courses and start my career.
 Now i’m looking for job.
 
 My stack: React / Redux / Redux Toolkit
+My CV: [Hexlet](https://cv.hexlet.io/resumes/546)
 
 ### Contact me
 

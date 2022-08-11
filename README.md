@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+My name is Andrei, i`m a junior frontend-developer.
+I`m just finished a [Hexlet](https://hexlet.io) courses and start my career.
+Now i`m looking for job.
+
+My stack: React/Redux/Reduxjs/toolkit
+
+### Contact me
+
+Email: [Andrei362065@gmail.com](mailto:Andrei362065@gmail.com)
+Telegram: [@ilyin_andrey](https://t.me/ilyin_andrey)
+
 <!--
 **AndreiIlin/AndreiIlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

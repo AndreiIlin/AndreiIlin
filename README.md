@@ -7,5 +7,8 @@
 - 🌱 I’m currently learning Typescript
 - 🤔 I’m looking for job
 - 💬 Ask me about JavaScript
-- My Stack: ![Redux](https://img.shields.io/badge/-Redux-black?style=plastic&logo=redux)
+- My Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=plastic&logo=redux)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 - 📫 How to reach me: Email: [Andrei362065@gmail.com](mailto:Andrei362065@gmail.com) Telegram: [@ilyin_andrey](https://t.me/ilyin_andrey)

@@ -10,6 +10,7 @@
 - ⚙️ My stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Redux Toolkit](https://img.shields.io/badge/-Redux Toolkit-black?style=flat-square&logo=redux)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 - 📫 How to reach me: ![Gmail](https://img.shields.io/badge/Email-black?style=flat-square&logo=Gmail): [Andrei362065@gmail.com](mailto:Andrei362065@gmail.com) ![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram): [@ilyin_andrey](https://t.me/ilyin_andrey)
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Andrei, i’m a junior frontend-developer.
+#### My name is Andrei, i’m a junior frontend-developer.
 
 
 - 🔭 I’m currently working on [Hexlet](https://hexlet.io) open-source projects
@@ -12,3 +12,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 - 📫 How to reach me: Email: [Andrei362065@gmail.com](mailto:Andrei362065@gmail.com) Telegram: [@ilyin_andrey](https://t.me/ilyin_andrey)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AndreiIlin&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiIlin&hide=TeX&layout=compact)
